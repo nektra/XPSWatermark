@@ -1,5 +1,5 @@
-XPS WATERMARKING CODE
-=====================
+XPS WATERMARKING WITH DEVIARE
+=============================
 Software requeriments:
 
 * Windows Vista SP2 with Platform Update or higher.
